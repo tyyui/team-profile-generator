@@ -1,0 +1,29 @@
+.team-heading {
+    font-family: 'Sarabun', sans-serif !important;
+    background-color: #D96055 !important;
+    color:#F2F2F2 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 8vw;
+}
+
+.card-header {
+    background-color: #82A8D9;
+}
+
+.employee-card {
+    margin-top: 10%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.team-area{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
